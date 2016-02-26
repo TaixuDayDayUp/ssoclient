@@ -3,7 +3,7 @@
 namespace TaixuDayDayUp\Ssoclient\Middleware;
 
 use Closure;
-use TaixuDayDayUp\Ssoclient\SsoClient;
+use SsoClient;
 
 class AuthUser
 {
